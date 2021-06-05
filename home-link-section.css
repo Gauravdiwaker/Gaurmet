@@ -1,0 +1,20 @@
+.home-link-containier{
+    display: flex;
+    justify-content: center;
+}
+.home-link-section{
+    margin-top: 50px;
+    background-color: #f1f1f1;
+}
+.link p:hover{
+    color: #4CAF50;
+}
+.link p{
+    text-decoration: underline;
+    margin-bottom: 25px;
+    margin-top: 50px;
+}
+.home-link-box div p{
+    margin-bottom: 25px;
+    margin-top: 50px;
+}

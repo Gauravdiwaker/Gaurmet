@@ -1,0 +1,19 @@
+.section1 .text h1{
+    position: absolute;
+    bottom: 25px;
+    left: 40px;
+    color: gray;
+    letter-spacing: 3px;
+    font-weight: 100;
+}
+.section1 .text{
+    position: relative;
+}
+.section1-img img{
+    width: 100%;
+}
+@media screen and (max-width:650px){
+    .section1 .text h1{
+        font-size:15px;
+    }
+}

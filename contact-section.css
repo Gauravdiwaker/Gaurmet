@@ -1,0 +1,39 @@
+.your-information{
+    margin-top: 5px;
+}
+.my-information div{
+    padding: 8px 0px;
+}
+.information-containier{
+    width: 80%;
+    margin: 0px auto;
+}
+.contact-section{
+    margin-top: 100px;
+}
+.your-information div{
+    padding: 5px 0px;
+}
+.your-information input{
+    padding: 20px 0px;
+    border: transparent;
+    width: 100%;
+}
+.my-information .colb p{
+    color:#607d8b;
+    font-weight: bolder;
+}
+.my-information h1{
+    font-weight: 100;
+}
+.your-information button{
+    padding: 8px 16px;
+    margin: 16px 0px;
+    border: transparent;
+}
+.your-information button:hover{
+    background-color:#ccc;
+}
+.my-information div p{
+    font-size: 15px;
+}
